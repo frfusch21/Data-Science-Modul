@@ -1,0 +1,15 @@
+Local
+1. pip install streamlit
+2. pip install scikit-learn
+3. streamlit run app.py
+
+Deploy ke streamlit.io
+1. Push project ke github (Video: https://www.youtube.com/watch?v=u20TIb9mAHg&ab_channel=TheWebAdventure)
+2. Sign up / Sign in ke streamlit.io
+3. Connect github account
+4. Klik New App
+5. Pilih repository github
+6. Deploy!
+
+Video lebih jelas:
+https://www.youtube.com/watch?v=teOcYWs-qOk&ab_channel=adisyahadi
